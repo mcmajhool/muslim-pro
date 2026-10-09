@@ -1,0 +1,6 @@
+{
+  "name": "تطبيق مهام المسلم اليومية | Muslim Routine",
+  "description": "تطبيق متكامل لمهام المسلم اليومية، مواقيت الصلاة مع التذكير بالأذان، جدول الأذكار المنظم مع مسبحة تفاعلية، وكود كوتلن أندرويد (Jetpack Compose).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
